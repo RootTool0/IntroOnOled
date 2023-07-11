@@ -7,7 +7,7 @@
  * https://www.youtube.com/@roottool0
  *
  * Видео
- * https://www.youtube.com/
+ * https://youtu.be/0Txg75lft1A
  */
 
 #include <GyverOLED.h> //Подключаем библиотеку дисплея
